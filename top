@@ -1,0 +1,86 @@
+[33mcommit 60682334fc344143530078c265efa4ee19324733[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 86573cc 296ade1
+Author: arizanda <61147603+arizanda@users.noreply.github.com>
+Date:   Tue Feb 18 15:22:22 2020 +0700
+
+    Merge branch 'production'
+
+[33mcommit 296ade1670befe756b5cf1bdda1b32ddedc4b843[m[33m ([m[1;31morigin/production[m[33m)[m
+Author: arizanda <61147603+arizanda@users.noreply.github.com>
+Date:   Tue Feb 18 15:21:08 2020 +0700
+
+    tes
+
+[33mcommit 86573cc93641ab45e1e8b5a5f8508d6f7722f4cd[m
+Merge: f81f952 f914328
+Author: arizanda <61147603+arizanda@users.noreply.github.com>
+Date:   Tue Feb 18 15:19:57 2020 +0700
+
+    Merge branch 'production'
+
+[33mcommit f9143282822f45e8c0fab39e2d1e401f3fd6b045[m
+Author: arizanda <61147603+arizanda@users.noreply.github.com>
+Date:   Tue Feb 18 15:18:52 2020 +0700
+
+    tes
+
+[33mcommit f81f9527e95b47a6f533784b75de75e738fea81a[m
+Merge: c5ac4b6 af1cd5c
+Author: arizanda <61147603+arizanda@users.noreply.github.com>
+Date:   Tue Feb 18 15:17:12 2020 +0700
+
+    Merge branch 'production'
+
+[33mcommit af1cd5c6409fb3c8dd2df4fe9045b1924178cc65[m[33m ([m[1;32mproduction[m[33m)[m
+Author: arizanda <61147603+arizanda@users.noreply.github.com>
+Date:   Tue Feb 18 15:15:59 2020 +0700
+
+    test dari command
+
+[33mcommit c5ac4b6da3381f7af70507462033b591f3da1dac[m
+Merge: 92bb10a 8c6088e
+Author: arizanda <61147603+arizanda@users.noreply.github.com>
+Date:   Tue Feb 18 15:01:41 2020 +0700
+
+    Merge pull request #2 from arizanda/production
+    
+    added via production
+
+[33mcommit 8c6088ea8a4f373f8351fc846aacb9ab4dc22079[m
+Author: arizanda <61147603+arizanda@users.noreply.github.com>
+Date:   Tue Feb 18 15:01:04 2020 +0700
+
+    added via production
+    
+    test via production
+
+[33mcommit 92bb10a6c4a9d49a3284b424b79ffb8c276a1645[m
+Author: arizanda <61147603+arizanda@users.noreply.github.com>
+Date:   Tue Feb 18 15:00:15 2020 +0700
+
+    aries_test commit
+    
+    commit test
+
+[33mcommit 53f95710ac85bc6f2c271cc76ab7b160cb53edc9[m
+Merge: 783d9ec cf26c0b
+Author: arizanda <61147603+arizanda@users.noreply.github.com>
+Date:   Tue Feb 18 14:59:05 2020 +0700
+
+    Merge pull request #1 from arizanda/production
+    
+    Update README.md
+
+[33mcommit cf26c0bfbeb60ef0934d6b800d67aafd67e22000[m
+Author: arizanda <61147603+arizanda@users.noreply.github.com>
+Date:   Tue Feb 18 14:56:50 2020 +0700
+
+    Update README.md
+    
+    test
+
+[33mcommit 783d9ec3809d0b9e505a57500260c84ee8de9b38[m
+Author: arizanda <61147603+arizanda@users.noreply.github.com>
+Date:   Tue Feb 18 14:53:16 2020 +0700
+
+    Initial commit
